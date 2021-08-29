@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "CodeSmelter.Api.Repository": {
+              "target": "Package",
+              "version": "[0.1.0-alpha, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

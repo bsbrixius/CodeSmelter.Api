@@ -4,4 +4,11 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="CodeSmelter.Api.Repository" Version="0.1.0-alpha" />
+  </ItemGroup>
+
+  <ItemGroup>
+  </ItemGroup>
+
 </Project>

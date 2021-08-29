@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+    <Authors>Bruno Brixius</Authors>
+    <PackageId>CodeSmelter.Api.Repository</PackageId>
+    <Company>Code Smelter</Company>
+    <Version>0.1.0-alpha</Version>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

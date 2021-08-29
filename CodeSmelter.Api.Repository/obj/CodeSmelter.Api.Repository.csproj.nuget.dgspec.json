@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\bruno\\Documents\\Projects\\CodeSmelter\\CodeSmelter.Api\\CodeSmelter.Api.Repository\\CodeSmelter.Api.Repository.csproj": {
-      "version": "1.0.0",
+      "version": "0.1.0-alpha",
       "restore": {
         "projectUniqueName": "C:\\Users\\bruno\\Documents\\Projects\\CodeSmelter\\CodeSmelter.Api\\CodeSmelter.Api.Repository\\CodeSmelter.Api.Repository.csproj",
         "projectName": "CodeSmelter.Api.Repository",
