@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSmelter.Api.Core", "CodeSmelter.Api.Core\CodeSmelter.Api.Core.csproj", "{5D3C5718-B84F-425A-A764-20B78244BAD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSmelter.Api.Repository", "CodeSmelter.Api.Repository\CodeSmelter.Api.Repository.csproj", "{D593A98C-E521-4088-933E-76278A6E1365}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3C5718-B84F-425A-A764-20B78244BAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3C5718-B84F-425A-A764-20B78244BAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3C5718-B84F-425A-A764-20B78244BAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3C5718-B84F-425A-A764-20B78244BAD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D593A98C-E521-4088-933E-76278A6E1365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D593A98C-E521-4088-933E-76278A6E1365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D593A98C-E521-4088-933E-76278A6E1365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D593A98C-E521-4088-933E-76278A6E1365}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A62D5D-1588-4D7D-B556-2176954817A7}
+	EndGlobalSection
+EndGlobal
